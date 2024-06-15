@@ -1,0 +1,14 @@
+C:\Users\alexi\OneDrive\Рабочий стол\Gym\Gym.App\bin\Debug\net8.0\Gym.App.exe
+C:\Users\alexi\OneDrive\Рабочий стол\Gym\Gym.App\bin\Debug\net8.0\Gym.App.deps.json
+C:\Users\alexi\OneDrive\Рабочий стол\Gym\Gym.App\bin\Debug\net8.0\Gym.App.runtimeconfig.json
+C:\Users\alexi\OneDrive\Рабочий стол\Gym\Gym.App\bin\Debug\net8.0\Gym.App.dll
+C:\Users\alexi\OneDrive\Рабочий стол\Gym\Gym.App\bin\Debug\net8.0\Gym.App.pdb
+C:\Users\alexi\OneDrive\Рабочий стол\Gym\Gym.App\obj\Debug\net8.0\Gym.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\OneDrive\Рабочий стол\Gym\Gym.App\obj\Debug\net8.0\Gym.App.AssemblyInfoInputs.cache
+C:\Users\alexi\OneDrive\Рабочий стол\Gym\Gym.App\obj\Debug\net8.0\Gym.App.AssemblyInfo.cs
+C:\Users\alexi\OneDrive\Рабочий стол\Gym\Gym.App\obj\Debug\net8.0\Gym.App.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Рабочий стол\Gym\Gym.App\obj\Debug\net8.0\Gym.App.dll
+C:\Users\alexi\OneDrive\Рабочий стол\Gym\Gym.App\obj\Debug\net8.0\refint\Gym.App.dll
+C:\Users\alexi\OneDrive\Рабочий стол\Gym\Gym.App\obj\Debug\net8.0\Gym.App.pdb
+C:\Users\alexi\OneDrive\Рабочий стол\Gym\Gym.App\obj\Debug\net8.0\Gym.App.genruntimeconfig.cache
+C:\Users\alexi\OneDrive\Рабочий стол\Gym\Gym.App\obj\Debug\net8.0\ref\Gym.App.dll
